@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638456902383487306
-    m_Hash: 3326436501
+      ticks: 638481724993205623
+    m_Hash: 4095216739
   m_LockFileStatus:
     m_FilePath: D:/GitHub/TAMS/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638456902383577317
-    m_Hash: 3941033811
+      ticks: 638481724993215618
+    m_Hash: 4233164516
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -873,6 +873,8 @@ m_ResolvedPackages:
     - 2.5.3
     - 3.0.0-pre.1
     - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
     compatible:
     - 2.3.2
     - 2.4.0-pre.1
@@ -886,6 +888,8 @@ m_ResolvedPackages:
     - 2.5.3
     - 3.0.0-pre.1
     - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
     recommended: 2.3.2
     deprecated: []
   dependencies:
@@ -3259,6 +3263,8 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
     compatible:
     - 1.5.1
     - 1.6.1
@@ -3266,6 +3272,8 @@ m_ResolvedPackages:
     - 1.7.0
     - 1.8.0-pre.1
     - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
     recommended: 1.5.1
     deprecated: []
   dependencies:

@@ -4,7 +4,22 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Claustrophobia.unity
+    guid: 9e5c02c8f1a021f4c9d00a4951212c8c
+  - enabled: 1
+    path: Assets/Scenes/Acrophobia.unity
+    guid: c86a8f9c369a2114eb6254d4f99708d4
+  - enabled: 1
+    path: Assets/Scenes/Nyctophobia.unity
+    guid: bfb131686fdbadd4e8fffcdaef7d5350
+  - enabled: 1
+    path: Assets/Scenes/Trypophobia.unity
+    guid: ba0740a33a745c941bbf3236ec096a4e
   m_configObjects:
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: a3421d6475deddc4b9d3bc320caa4ea9, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3125118afca06941a625f8cc180b07d, type: 2}

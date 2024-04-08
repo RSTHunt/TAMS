@@ -376,6 +376,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -analyzer:"D:/FiercePC/Unity 2022.2.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/FiercePC/Unity 2022.2.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Button.cs"
 "Assets/Viveport/Example/Scripts/ViveportDemo.cs"
 "Assets/Viveport/Example/Scripts/ViveportDemo_ArcadeSession.cs"
 "Assets/Viveport/Example/Scripts/ViveportDemo_Avatar.cs"
@@ -404,6 +405,7 @@
 "Assets/Viveport/Scripts/Viveport_Internal_Android_Preview.cs"
 "Assets/Viveport/Scripts/Viveport_Internal_Preview.cs"
 "Assets/Viveport/Scripts/Viveport_Preview.cs"
+"Assets/WallMovement.cs"
 -langversion:9.0
 
 /deterministic
