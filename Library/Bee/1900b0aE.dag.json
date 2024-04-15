@@ -32528,7 +32528,11 @@
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
       "PayloadOffset": 2328316,
+<<<<<<< Updated upstream
       "PayloadLength": 32731,
+=======
+      "PayloadLength": 33074,
+>>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -32540,7 +32544,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 2361134,
+=======
+      "PayloadOffset": 2361477,
+>>>>>>> Stashed changes
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -32806,6 +32814,19 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll",
+<<<<<<< Updated upstream
+=======
+        "Assets/LightScript.cs",
+        "Assets/Scripts/AcrophobiaWin.cs",
+        "Assets/Scripts/Button.cs",
+        "Assets/Scripts/CharacterControllerGravity.cs",
+        "Assets/Scripts/ClimbProvider.cs",
+        "Assets/Scripts/HandComplete.cs",
+        "Assets/Scripts/HubTP.cs",
+        "Assets/Scripts/KeyAndDoor.cs",
+        "Assets/Scripts/WallMovement.cs",
+        "Assets/Scripts/XRDirectClimbInteractor.cs",
+>>>>>>> Stashed changes
         "Assets/Viveport/Example/Scripts/ViveportDemo.cs",
         "Assets/Viveport/Example/Scripts/ViveportDemo_ArcadeSession.cs",
         "Assets/Viveport/Example/Scripts/ViveportDemo_Avatar.cs",
@@ -33219,7 +33240,11 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
+<<<<<<< Updated upstream
       "PayloadOffset": 2361230,
+=======
+      "PayloadOffset": 2361573,
+>>>>>>> Stashed changes
       "PayloadLength": 10861,
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],

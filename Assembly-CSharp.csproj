@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Viveport\Scripts\Viveport.cs" />
+    <Compile Include="Assets\LightScript.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo_DLC.cs" />
     <Compile Include="Assets\Viveport\Scripts\LitJson\Lexer.cs" />
     <Compile Include="Assets\Viveport\Scripts\Viveport_Internal.cs" />
@@ -85,6 +86,7 @@
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo_Subscription.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportPreviewDemo_IAP.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo_Avatar.cs" />
+    <Compile Include="Assets\Scripts\KeyAndDoor.cs" />
     <Compile Include="Assets\Viveport\Scripts\Viveport_Internal_Preview.cs" />
   </ItemGroup>
   <ItemGroup>

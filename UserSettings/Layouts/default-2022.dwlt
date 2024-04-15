@@ -146,7 +146,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 92
+=======
+  controlID: 111
+>>>>>>> Stashed changes
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +175,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 42
+  controlID: 54
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +200,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 43
+  controlID: 55
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,8 +246,8 @@ MonoBehaviour:
     y: 0
     width: 1193
     height: 677
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -448,7 +452,11 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< Updated upstream
       m_ExpandedIDs: 42f6ffff
+=======
+      m_ExpandedIDs: 14e6ffff8eecffff5cedffff26fbffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -822,7 +830,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 48, y: 10}
+      snapOffset: {x: 48, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
@@ -854,9 +862,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: -3.9346967, y: -5.058771, z: -70.922226}
     speed: 2
     m_Value: {x: -3.9346967, y: -5.058771, z: -70.922226}
+=======
+    m_Target: {x: -24.42658, y: -1.0841274, z: -57.76241}
+    speed: 2
+    m_Value: {x: -24.426638, y: -1.0840447, z: -57.762695}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -902,6 +916,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< Updated upstream
     m_Target: {x: 0.2261396, y: -0.13537012, z: 0.031757828, w: 0.964099}
     speed: 2
     m_Value: {x: 0.22609629, y: -0.13681889, z: 0.03209765, w: 0.96391433}
@@ -909,6 +924,15 @@ MonoBehaviour:
     m_Target: 9.896602
     speed: 2
     m_Value: 9.896602
+=======
+    m_Target: {x: 0.13776195, y: 0.09968367, z: -0.013847931, w: 0.9854016}
+    speed: 2
+    m_Value: {x: 0.14520375, y: 0.09514059, z: -0.013941163, w: 0.98471814}
+  m_Size:
+    m_Target: 12.124356
+    speed: 2
+    m_Value: 1.5471998
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -980,7 +1004,11 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets
+=======
+    - Assets/Scripts
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -988,16 +1016,26 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets
+=======
+  - Assets/Scripts
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\GitHub\TAMS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 16700000
     m_LastClickedID: 28694
     m_ExpandedIDs: 00000000127000001470000000ca9a3b
+=======
+    m_SelectedIDs: a6680000
+    m_LastClickedID: 26790
+    m_ExpandedIDs: 0000000010680000126800007068000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1025,7 +1063,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000127000001470000016700000
+=======
+    m_ExpandedIDs: 000000001068000012680000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

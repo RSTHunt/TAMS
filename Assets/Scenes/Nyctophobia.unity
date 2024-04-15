@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.12731749, g: 0.13414757, b: 0.1210787, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -222,8 +222,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1506415206}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.5947, y: -3.9309177, z: -4.5329704}
-  m_LocalScale: {x: 16.707, y: 16.707, z: 16.707}
+  m_LocalPosition: {x: 7.5947, y: -3.9309177, z: -4.533}
+  m_LocalScale: {x: 13.076405, y: 13.076405, z: 13.076405}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -247,7 +247,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6552623969519395707, guid: 7c535648eff716944b4355a1778ad7ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5.24
+      value: -27.79
       objectReference: {fileID: 0}
     - target: {fileID: 6552623969519395707, guid: 7c535648eff716944b4355a1778ad7ac, type: 3}
       propertyPath: m_LocalPosition.y
@@ -255,7 +255,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6552623969519395707, guid: 7c535648eff716944b4355a1778ad7ac, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -80.5
+      value: -65.3
       objectReference: {fileID: 0}
     - target: {fileID: 6552623969519395707, guid: 7c535648eff716944b4355a1778ad7ac, type: 3}
       propertyPath: m_LocalRotation.w
@@ -308,7 +308,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7052263527749814483, guid: cb6dda048f7d80742b38ab0926d90a0e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.49
+      value: -30.04
       objectReference: {fileID: 0}
     - target: {fileID: 7052263527749814483, guid: cb6dda048f7d80742b38ab0926d90a0e, type: 3}
       propertyPath: m_LocalPosition.y
@@ -316,7 +316,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7052263527749814483, guid: cb6dda048f7d80742b38ab0926d90a0e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -80.71
+      value: -65.51
       objectReference: {fileID: 0}
     - target: {fileID: 7052263527749814483, guid: cb6dda048f7d80742b38ab0926d90a0e, type: 3}
       propertyPath: m_LocalRotation.w
