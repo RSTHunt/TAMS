@@ -33180,13 +33180,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp",
       "DisplayName": "Writing Assembly-CSharp.rsp",
       "ActionType": "WriteFile",
-<<<<<<< Updated upstream
-      "PayloadOffset": 2328316,
-      "PayloadLength": 33017,
-=======
       "PayloadOffset": 2399648,
-      "PayloadLength": 33760,
->>>>>>> Stashed changes
+      "PayloadLength": 34061,
       "PayloadDebugContentSnippet": "-target:library\r\n-out:\"Library",
       "Inputs": [],
       "Outputs": [
@@ -33198,11 +33193,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp2",
       "DisplayName": "Writing Assembly-CSharp.rsp2",
       "ActionType": "WriteFile",
-<<<<<<< Updated upstream
-      "PayloadOffset": 2361420,
-=======
-      "PayloadOffset": 2433495,
->>>>>>> Stashed changes
+      "PayloadOffset": 2433796,
       "PayloadLength": 0,
       "PayloadDebugContentSnippet": "",
       "Inputs": [],
@@ -33471,19 +33462,16 @@
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll",
-<<<<<<< Updated upstream
         "Assets/Scripts/AcrophobiaWin.cs",
         "Assets/Scripts/Button.cs",
         "Assets/Scripts/CharacterControllerGravity.cs",
         "Assets/Scripts/ClimbProvider.cs",
         "Assets/Scripts/HandComplete.cs",
         "Assets/Scripts/HubTP.cs",
+        "Assets/Scripts/LightScript.cs",
+        "Assets/Scripts/PatternGeneration.cs",
         "Assets/Scripts/WallMovement.cs",
         "Assets/Scripts/XRDirectClimbInteractor.cs",
-=======
-        "Assets/LightScript.cs",
-        "Assets/Scripts/KeyAndDoor.cs",
->>>>>>> Stashed changes
         "Assets/Viveport/Example/Scripts/ViveportDemo.cs",
         "Assets/Viveport/Example/Scripts/ViveportDemo_ArcadeSession.cs",
         "Assets/Viveport/Example/Scripts/ViveportDemo_Avatar.cs",
@@ -33897,13 +33885,8 @@
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll.mvfrm.rsp",
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
-<<<<<<< Updated upstream
-      "PayloadOffset": 2361516,
-      "PayloadLength": 10861,
-=======
-      "PayloadOffset": 2433591,
+      "PayloadOffset": 2433892,
       "PayloadLength": 11101,
->>>>>>> Stashed changes
       "PayloadDebugContentSnippet": "Library\\Bee\\artifacts\\mvdfrm\\U",
       "Inputs": [],
       "Outputs": [

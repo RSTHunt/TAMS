@@ -23,14 +23,19 @@ public class HubTP : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other == ClaustroTP)
+        if(other.gameObject == ClaustroTP)
         {
             SceneManager.LoadScene(1);
         }
 
-        if (other == AcroTP)
+        if (other.gameObject == AcroTP)
         {
             SceneManager.LoadScene(2);
+        }
+
+        if (other.gameObject== NyctoTP)
+        {
+            SceneManager.LoadScene(3);
         }
     }
 }

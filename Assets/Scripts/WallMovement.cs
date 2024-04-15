@@ -41,7 +41,7 @@ public class WallMovement : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
-        if(other == Wall1)
+        if(other.gameObject == Wall1)
         {
             SceneManager.LoadScene(1);
         }
