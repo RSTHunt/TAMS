@@ -1,23 +1,29 @@
 Using pre-set license
 Built from '2022.2/staging' branch; Version is '2022.2.20f1 (c5d806317f84) revision 12965894'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 8173 MB
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 65292 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\FiercePC\Unity 2022.2.20f1\Editor\Unity.exe
+C:\ProgramData\Unity_2022.2.20f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/GitHub/TAMS
+C:/Users/c1016988/Desktop/TAMS
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< Updated upstream
 60209
 Successfully changed project path to: D:/GitHub/TAMS
 D:/GitHub/TAMS
+=======
+51100
+Successfully changed project path to: C:/Users/c1016988/Desktop/TAMS
+C:/Users/c1016988/Desktop/TAMS
+>>>>>>> Stashed changes
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,23 +53,32 @@ D:/GitHub/TAMS
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< Updated upstream
 Player connection [13728] Host "[IP] 192.168.1.124 [Port] 0 [Flags] 2 [Guid] 199371726 [EditorId] 199371726 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-0L4GJO7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [13728] Host "[IP] 192.168.1.124 [Port] 0 [Flags] 2 [Guid] 199371726 [EditorId] 199371726 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-0L4GJO7) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 Refreshing native plugins compatible for Editor in 29.97 ms, found 7 plugins.
+=======
+Player connection [13616] Host "[IP] 10.72.84.146 [Port] 0 [Flags] 2 [Guid] 3689452093 [EditorId] 3689452093 [Version] 1048832 [Id] WindowsEditor(7,9224-18P548519) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13616] Host "[IP] 10.72.84.146 [Port] 0 [Flags] 2 [Guid] 3689452093 [EditorId] 3689452093 [Version] 1048832 [Id] WindowsEditor(7,9224-18P548519) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 19.37 ms, found 7 plugins.
+>>>>>>> Stashed changes
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.20f1 (c5d806317f84)
-[Subsystems] Discovering subsystems at path D:/FiercePC/Unity 2022.2.20f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/GitHub/TAMS/Assets
+[Subsystems] Discovering subsystems at path C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/c1016988/Desktop/TAMS/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
     Vendor:   NVIDIA
-    VRAM:     6052 MB
-    Driver:   27.21.14.5751
+    VRAM:     10067 MB
+    Driver:   31.0.15.3130
 Initialize mono
+<<<<<<< Updated upstream
 Mono path[0] = 'D:/FiercePC/Unity 2022.2.20f1/Editor/Data/Managed'
 Mono path[1] = 'D:/FiercePC/Unity 2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/FiercePC/Unity 2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
@@ -73,16 +88,38 @@ Registering precompiled unity dll's ...
 Register platform support module: D:/FiercePC/Unity 2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Registered in 0.011253 seconds.
 - Loaded All Assemblies, in  0.712 seconds
+=======
+Mono path[0] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.032656 seconds.
+- Loaded All Assemblies, in  0.568 seconds
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1721 ms
 Mono: successfully reloaded assembly
+<<<<<<< Updated upstream
 - Finished resetting the current domain, in  0.524 seconds
 Domain Reload Profiling:
 	ReloadAssembly (433ms)
 		BeginReloadAssembly (231ms)
+=======
+- Finished resetting the current domain, in  2.091 seconds
+Domain Reload Profiling:
+	ReloadAssembly (385ms)
+		BeginReloadAssembly (215ms)
+>>>>>>> Stashed changes
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< Updated upstream
 			CreateAndSetChildDomain (2ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
 			LoadAssemblies (229ms)
@@ -102,6 +139,27 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (2ms)
 				ProcessInitializeOnLoadAttributes (282ms)
 				ProcessInitializeOnLoadMethodAttributes (94ms)
+=======
+			CreateAndSetChildDomain (0ms)
+		LoadAllAssembliesAndSetupDomain (0ms)
+			LoadAssemblies (221ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (166ms)
+				TypeCache.Initialize (165ms)
+					TypeCache.ScanAssembly (164ms)
+				ResolveRequiredComponents (0ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (2036ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (1871ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (102ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
+>>>>>>> Stashed changes
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -109,11 +167,19 @@ Domain Reload Profiling:
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
+<<<<<<< Updated upstream
 Symbol file LoadedFromMemory doesn't match image D:\GitHub\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image D:\GitHub\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in  1.799 seconds
 Refreshing native plugins compatible for Editor in 13.18 ms, found 7 plugins.
+=======
+Symbol file LoadedFromMemory doesn't match image C:\Users\c1016988\Desktop\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\c1016988\Desktop\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.242 seconds
+Refreshing native plugins compatible for Editor in 12.15 ms, found 7 plugins.
+>>>>>>> Stashed changes
 Native extension for WindowsStandalone target not found
+Native extension for Android target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
@@ -125,6 +191,7 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
+<<<<<<< Updated upstream
 - Finished resetting the current domain, in  1.433 seconds
 Domain Reload Profiling:
 	ReloadAssembly (479ms)
@@ -163,6 +230,46 @@ Unloading 4494 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (68.8 KB). Loaded Objects now: 4959.
 Memory consumption went from 141.6 MB to 141.6 MB.
 Total: 7.287000 ms (FindLiveObjects: 0.534700 ms CreateObjectMapping: 0.272500 ms MarkObjects: 6.085300 ms  DeleteObjects: 0.392600 ms)
+=======
+- Finished resetting the current domain, in  0.774 seconds
+Domain Reload Profiling:
+	ReloadAssembly (391ms)
+		BeginReloadAssembly (246ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		LoadAllAssembliesAndSetupDomain (844ms)
+			LoadAssemblies (624ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (399ms)
+				TypeCache.Initialize (366ms)
+					TypeCache.ScanAssembly (361ms)
+				ResolveRequiredComponents (9ms)
+		FinalizeReload (0ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (0ms)
+			SetupLoadedEditorAssemblies (561ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (43ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (387ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 11.80 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (304.8 KB). Loaded Objects now: 4963.
+Memory consumption went from 148.1 MB to 147.8 MB.
+Total: 3.500600 ms (FindLiveObjects: 0.443300 ms CreateObjectMapping: 0.157800 ms MarkObjects: 2.785000 ms  DeleteObjects: 0.113500 ms)
+>>>>>>> Stashed changes
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -177,6 +284,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 2177916.577696 seconds.
   path: Assets/14 Climbing/Ladder.prefab
   artifactKey: Guid(145ac457e7c613a4b9cbbced65085013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -318,10 +426,17 @@ Received Import Request.
   path: Assets/Scripts
   artifactKey: Guid(9afc6fe42dc43064b8be9517b0151218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts using Guid(9afc6fe42dc43064b8be9517b0151218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857233e86b7d1d2cabbb20c9ab9f0c0d') in 0.005164 seconds
+=======
+  Time since last request: 799.158859 seconds.
+  path: Assets/XR Origin (XR Rig).prefab
+  artifactKey: Guid(7c535648eff716944b4355a1778ad7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR Origin (XR Rig).prefab using Guid(7c535648eff716944b4355a1778ad7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1f3d622d3691941607ade00f68c5c9') in 0.108523 seconds
+>>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 64.705314 seconds.
   path: Assets/Scripts/HandComplete.cs
   artifactKey: Guid(f7351dfb4f7398f42bc7b184f5fd8aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -512,10 +627,73 @@ Received Import Request.
   path: Assets/XRI
   artifactKey: Guid(608dfa68353a3cf42ba5ee5ed410cd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/XRI using Guid(608dfa68353a3cf42ba5ee5ed410cd76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba49437a29615eee67bddeeea5f923ca') in 0.001184 seconds
+=======
+  Time since last request: 62.857567 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658a141fc028e9c5dc33ba7b21f3e536') in 0.033123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 6.994150 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f191019a49dd7ff363f19c464d1d3e02') in 0.014434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 3.211139 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9ac34a441d6aecb68a9901c29f9f7c') in 0.013793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 3.021882 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c05131929a0456739822c655d75ecd') in 0.014449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 7.872551 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c63c66e199d235fc24988e14f7fe1b6') in 0.020440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 4.469558 seconds.
+  path: Assets/Cylinder.prefab
+  artifactKey: Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cylinder.prefab using Guid(cb6dda048f7d80742b38ab0926d90a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a28b4d8fb916b3225974ba5c0edce8') in 0.015025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 49.213628 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(715fbb3d2850d8b4296b8b5ffd58cdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(715fbb3d2850d8b4296b8b5ffd58cdd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741d2b7a113b8ee1cd5c234a43520dfd') in 0.000530 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
+  Time since last request: 35.323210 seconds.
+  path: Assets/Scenes/Nyctophobia.unity
+  artifactKey: Guid(bfb131686fdbadd4e8fffcdaef7d5350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Nyctophobia.unity using Guid(bfb131686fdbadd4e8fffcdaef7d5350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82205d6f816e73c624295f28add1a7ba') in 0.000603 seconds
+>>>>>>> Stashed changes
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+<<<<<<< Updated upstream
   Time since last request: 7.703667 seconds.
   path: Assets/SteamVR/InteractionSystem/Longbow/Sounds/Default.mixer
   artifactKey: Guid(ec12f7772c03e4c4c9e4c2f1643595ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -998,5 +1176,11 @@ Received Import Request.
   path: Assets/Scenes/Acrophobia.unity
   artifactKey: Guid(c86a8f9c369a2114eb6254d4f99708d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/Acrophobia.unity using Guid(c86a8f9c369a2114eb6254d4f99708d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a476073f35d72f1f5f05244a0853cb2c') in 0.003236 seconds
+=======
+  Time since last request: 3.946220 seconds.
+  path: Assets/Scenes/Acrophobia.unity
+  artifactKey: Guid(c86a8f9c369a2114eb6254d4f99708d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Acrophobia.unity using Guid(c86a8f9c369a2114eb6254d4f99708d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e320d7ebd70b43c7854a1793196f06') in 0.000523 seconds
+>>>>>>> Stashed changes
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
