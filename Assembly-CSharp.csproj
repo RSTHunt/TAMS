@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Viveport\Scripts\Viveport.cs" />
+    <Compile Include="Assets\PatternGeneration.cs" />
     <Compile Include="Assets\Scripts\LightScript.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo_DLC.cs" />
     <Compile Include="Assets\Viveport\Scripts\LitJson\Lexer.cs" />
@@ -67,8 +68,10 @@
     <Compile Include="Assets\Viveport\Scripts\Viveport_Internal_Android.cs" />
     <Compile Include="Assets\Scripts\Button.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportPreviewDemo_DLC.cs" />
+    <Compile Include="Assets\TrypophobiaWin.cs" />
     <Compile Include="Assets\Viveport\Scripts\Viveport_Preview.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo.cs" />
+    <Compile Include="Assets\PatternShape.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportDemo_Deeplink.cs" />
     <Compile Include="Assets\Viveport\Example\Scripts\ViveportPreviewDemo_UserStats.cs" />
     <Compile Include="Assets\Scripts\HandComplete.cs" />
