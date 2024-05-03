@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.2/staging' branch; Version is '2022.2.20f1 (c5d806317f84) revision 12965894'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22635) 64bit Core' Language: 'en' Physical Memory: 32636 MB
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 65292 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2022.2.20f1\Editor\Unity.exe
+C:\ProgramData\Unity_2022.2.20f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/user/Desktop/GDP/TAMS
+C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-56954
-Successfully changed project path to: C:/Users/user/Desktop/GDP/TAMS
-C:/Users/user/Desktop/GDP/TAMS
+63199
+Successfully changed project path to: C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
+C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,64 +47,64 @@ C:/Users/user/Desktop/GDP/TAMS
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [5032] Host "[IP] 10.90.2.195 [Port] 0 [Flags] 2 [Guid] 2502001027 [EditorId] 2502001027 [Version] 1048832 [Id] WindowsEditor(7,RHuntPC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20292] Host "[IP] 10.72.85.163 [Port] 0 [Flags] 2 [Guid] 3643177988 [EditorId] 3643177988 [Version] 1048832 [Id] WindowsEditor(7,9224-19P548556) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [5032] Host "[IP] 10.90.2.195 [Port] 0 [Flags] 2 [Guid] 2502001027 [EditorId] 2502001027 [Version] 1048832 [Id] WindowsEditor(7,RHuntPC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20292] Host "[IP] 10.72.85.163 [Port] 0 [Flags] 2 [Guid] 3643177988 [EditorId] 3643177988 [Version] 1048832 [Id] WindowsEditor(7,9224-19P548556) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 15.98 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 18.69 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.20f1 (c5d806317f84)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/GDP/TAMS/Assets
+[Subsystems] Discovering subsystems at path C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/c2021538.SHU/Desktop/VR Design/TAMS/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
     Vendor:   NVIDIA
-    VRAM:     12115 MB
-    Driver:   31.0.15.5152
+    VRAM:     10067 MB
+    Driver:   31.0.15.3640
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
+Mono path[0] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010936 seconds.
-- Loaded All Assemblies, in  0.587 seconds
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.036883 seconds.
+- Loaded All Assemblies, in  0.529 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 428 ms
+Android Extension - Scanning For ADB Devices 384 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.855 seconds
+- Finished resetting the current domain, in  0.763 seconds
 Domain Reload Profiling:
-	ReloadAssembly (298ms)
-		BeginReloadAssembly (148ms)
+	ReloadAssembly (367ms)
+		BeginReloadAssembly (216ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
-			LoadAssemblies (145ms)
+			LoadAssemblies (218ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (277ms)
-				TypeCache.Initialize (277ms)
-					TypeCache.ScanAssembly (274ms)
+			SetupTypeCache (150ms)
+				TypeCache.Initialize (150ms)
+					TypeCache.ScanAssembly (148ms)
 				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (785ms)
+			SetupLoadedEditorAssemblies (706ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (581ms)
-				SetLoadedEditorAssemblies (6ms)
+				InitializePlatformSupportModulesInManaged (536ms)
+				SetLoadedEditorAssemblies (5ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (132ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
+				ProcessInitializeOnLoadAttributes (108ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -112,10 +112,10 @@ Domain Reload Profiling:
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\GDP\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\GDP\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  0.853 seconds
-Refreshing native plugins compatible for Editor in 7.68 ms, found 7 plugins.
+Symbol file LoadedFromMemory doesn't match image C:\Users\c2021538.SHU\Desktop\VR Design\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\c2021538.SHU\Desktop\VR Design\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.144 seconds
+Refreshing native plugins compatible for Editor in 11.05 ms, found 7 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Package Manager log level set to [2]
@@ -129,44 +129,44 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.651 seconds
+- Finished resetting the current domain, in  0.725 seconds
 Domain Reload Profiling:
-	ReloadAssembly (216ms)
-		BeginReloadAssembly (127ms)
+	ReloadAssembly (365ms)
+		BeginReloadAssembly (256ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		LoadAllAssembliesAndSetupDomain (633ms)
-			LoadAssemblies (304ms)
+			CreateAndSetChildDomain (16ms)
+		LoadAllAssembliesAndSetupDomain (774ms)
+			LoadAssemblies (603ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (385ms)
-				TypeCache.Initialize (347ms)
-					TypeCache.ScanAssembly (342ms)
-				ResolveRequiredComponents (9ms)
+			SetupTypeCache (360ms)
+				TypeCache.Initialize (329ms)
+					TypeCache.ScanAssembly (325ms)
+				ResolveRequiredComponents (8ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (461ms)
+			SetupLoadedEditorAssemblies (534ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (25ms)
+				InitializePlatformSupportModulesInManaged (43ms)
 				SetLoadedEditorAssemblies (4ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (75ms)
-				ProcessInitializeOnLoadAttributes (329ms)
+				BeforeProcessingInitializeOnLoad (104ms)
+				ProcessInitializeOnLoadAttributes (352ms)
 				ProcessInitializeOnLoadMethodAttributes (18ms)
-				AfterProcessingInitializeOnLoad (10ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 12.19 ms, found 7 plugins.
+			AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 12.90 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4497 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (304.9 KB). Loaded Objects now: 4965.
-Memory consumption went from 147.8 MB to 147.5 MB.
-Total: 4.558400 ms (FindLiveObjects: 0.394800 ms CreateObjectMapping: 0.416500 ms MarkObjects: 3.638300 ms  DeleteObjects: 0.107900 ms)
+Unloading 50 unused Assets / (305.3 KB). Loaded Objects now: 4969.
+Memory consumption went from 149.4 MB to 149.1 MB.
+Total: 3.552600 ms (FindLiveObjects: 0.513900 ms CreateObjectMapping: 0.156400 ms MarkObjects: 2.754600 ms  DeleteObjects: 0.125700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -181,73 +181,166 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 471950.312764 seconds.
-  path: Assets/SteamVR/InteractionSystem/Samples/Models/Furniture.fbx
-  artifactKey: Guid(2e710f2b5a4f9674183207e79056e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Samples/Models/Furniture.fbx using Guid(2e710f2b5a4f9674183207e79056e879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14728b14f1f5f52ba86e58fbc09471fb') in 0.216503 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 28
-========================================================================
-Received Import Request.
-  Time since last request: 0.000026 seconds.
-  path: Assets/SteamVR/InteractionSystem/Longbow/Models/Arrow.fbx
-  artifactKey: Guid(56377e28a47008245871ca7b435044c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Longbow/Models/Arrow.fbx using Guid(56377e28a47008245871ca7b435044c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4680c6b038525a059918a036651bafae') in 0.029839 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 14
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestinationInvalid.fbx
-  artifactKey: Guid(6e0f456570268ff49a58a019080ee045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestinationInvalid.fbx using Guid(6e0f456570268ff49a58a019080ee045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e390fe807a238f4168c85e369f28088') in 0.014672 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidIdleJumpUp.fbx
-  artifactKey: Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Animation/HumanoidIdleJumpUp.fbx using Guid(0d9d26e2162aa4d11ab075b34c029673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16c530beb2160ef16dc522434181f72') in 0.007975 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 182
-========================================================================
-Received Import Request.
-  Time since last request: 15.488369 seconds.
-  path: Assets/Meshes/Decorative plants/Cross pot pine plant prefab.prefab
-  artifactKey: Guid(332026c5f18a75e419e365dc721676de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Cross pot pine plant prefab.prefab using Guid(332026c5f18a75e419e365dc721676de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece6f145073943294e65ed45cc8f6564') in 0.303570 seconds
+  Time since last request: 7282.972648 seconds.
+  path: Assets/PatternShape.prefab
+  artifactKey: Guid(33061bebe755d0f41900867f9524f4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PatternShape.prefab using Guid(33061bebe755d0f41900867f9524f4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40639701367f17c2e36033f3893afd3c') in 0.092500 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 30
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Meshes/Decorative plants/Square pot palm plant prefab.prefab
-  artifactKey: Guid(64c1854a58317e84dabd0a9fb158b4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Square pot palm plant prefab.prefab using Guid(64c1854a58317e84dabd0a9fb158b4a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '351f5feb60832b31e9b14e29e3d4a3f3') in 0.022935 seconds
+  Time since last request: 0.996979 seconds.
+  path: Assets/Modles/PRE_Barrier.prefab
+  artifactKey: Guid(9995d697236e7334795b93ae07692bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Barrier.prefab using Guid(9995d697236e7334795b93ae07692bb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff89fbce7238e1cd9ff597d76e6451b') in 0.015171 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 193
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Meshes/Decorative plants/Square pot shrub plant prefab.prefab
-  artifactKey: Guid(5c2d005ed687988429365cfeae7acfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Square pot shrub plant prefab.prefab using Guid(5c2d005ed687988429365cfeae7acfed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad3dfa81b1182ef19d01b30a23686cf') in 0.028477 seconds
+  Time since last request: 0.346623 seconds.
+  path: Assets/Modles/PRE_Bench.prefab
+  artifactKey: Guid(6f3d1651afe3add42aa0d9ec069272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Bench.prefab using Guid(6f3d1651afe3add42aa0d9ec069272bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e28002a282994565753ae3f669a57659') in 0.022308 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 17
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Meshes/Decorative plants/Sphere pot palm plant prefab.prefab
-  artifactKey: Guid(1c771214f2a55fc40842b4d128887860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Sphere pot palm plant prefab.prefab using Guid(1c771214f2a55fc40842b4d128887860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730b7729ca570854fe572472a85156d0') in 0.030398 seconds
+  Time since last request: 0.302474 seconds.
+  path: Assets/Modles/PRE_Pentagon.prefab
+  artifactKey: Guid(00234d36195a7d246ad62ab06d0f6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Pentagon.prefab using Guid(00234d36195a7d246ad62ab06d0f6501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ced138234a081470c403a7361cf123') in 0.023624 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.297063 seconds.
+  path: Assets/Modles/PRE_StairCase.prefab
+  artifactKey: Guid(ba51917239df4be42b2994ce07d33da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_StairCase.prefab using Guid(ba51917239df4be42b2994ce07d33da9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '937881228aa6d8011a88ed65a44cbe0d') in 0.035638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 103
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Modles/PRE_Podium.prefab
+  artifactKey: Guid(0274bd3ec48ad374b9846b558f028338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Podium.prefab using Guid(0274bd3ec48ad374b9846b558f028338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd143bfde4a03908995cfb37ba760f3bc') in 0.017195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Modles/PRE_Ladder.prefab
+  artifactKey: Guid(3c951d2d81e73c543a75522a505a42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Ladder.prefab using Guid(3c951d2d81e73c543a75522a505a42f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d3d9af4d8b10cff1dc78ff61621b2a') in 0.013893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modles/PRE_Wall.prefab
+  artifactKey: Guid(59862e90b2edea047a743459bd7ee8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/PRE_Wall.prefab using Guid(59862e90b2edea047a743459bd7ee8b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b4fbd1c7a9ea5db5ebc4fd47698720') in 0.014059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 17
+========================================================================
+Received Import Request.
+  Time since last request: 17.826542 seconds.
+  path: Assets/Modles/Neon Plants/Door.png
+  artifactKey: Guid(346765abe6b07ef4eb9d101042953ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Door.png using Guid(346765abe6b07ef4eb9d101042953ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dd38d34e8f5eb9118821a63b6278430') in 0.068477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.299518 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 R.png
+  artifactKey: Guid(6cff7d47f902ead478f794f901e88c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 R.png using Guid(6cff7d47f902ead478f794f901e88c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cdb766d803fb8a48cc4c7530d75108c') in 0.031003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/Meshes/Decorative plants/Cylinder pot bamboo plant prefab.prefab
-  artifactKey: Guid(01e90580502427a4896001de24e694f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Cylinder pot bamboo plant prefab.prefab using Guid(01e90580502427a4896001de24e694f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7c2d0fc1f47bf514db6bbe4f8258cae') in 0.040874 seconds
+  path: Assets/Modles/Neon Plants/Grass 3 B.png
+  artifactKey: Guid(3c6d63a86e73b5e49bdbb198b1befab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 B.png using Guid(3c6d63a86e73b5e49bdbb198b1befab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19289cc7d0281da19ec06652f814fc0a') in 0.017653 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 P.png
+  artifactKey: Guid(5c9b66b6e90787541af4b9b32c613e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 P.png using Guid(5c9b66b6e90787541af4b9b32c613e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e3c41cfc0501deabfdef456ed6c35f') in 0.017306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 B.png
+  artifactKey: Guid(0b155934afb484f4b9b82315fcf1599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 B.png using Guid(0b155934afb484f4b9b82315fcf1599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75696e051caab1244f891a275e96c7a6') in 0.019002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 R.png
+  artifactKey: Guid(50b107f4b9989a346a5b48fa1fa809fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 R.png using Guid(50b107f4b9989a346a5b48fa1fa809fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e9a9db67277567928b7e883e9d1618') in 0.016907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 DB.png
+  artifactKey: Guid(09762146343e7f8488f2fe408fd058b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 DB.png using Guid(09762146343e7f8488f2fe408fd058b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e46926eb09253380606e8c8a4190fb') in 0.016971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 G.png
+  artifactKey: Guid(0bc6104b81358184bbe34d0aa49f0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 G.png using Guid(0bc6104b81358184bbe34d0aa49f0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5031dce5de10d0c91540f3843537b72') in 0.009543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 G.png
+  artifactKey: Guid(bb0f76c7436de274b8ec673d5b3558ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 G.png using Guid(bb0f76c7436de274b8ec673d5b3558ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41f655574416978691207656ca988d25') in 0.018773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 G.png
+  artifactKey: Guid(64894757fec074644b26774ca9c3b7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 G.png using Guid(64894757fec074644b26774ca9c3b7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6ba5d70c03be1f67c55eb27e56bebba') in 0.018801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 DB.png
+  artifactKey: Guid(cddaebc9c4ea15c429db71ef4efa56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 DB.png using Guid(cddaebc9c4ea15c429db71ef4efa56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77eb0f70ca0ce0bbfba0439d589cd694') in 0.017016 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 B.png
+  artifactKey: Guid(5840b990fe56bfd4aa4b7223d8bfbb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 B.png using Guid(5840b990fe56bfd4aa4b7223d8bfbb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551a0b31b8b9838d5fb09a143d956e7d') in 0.016406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

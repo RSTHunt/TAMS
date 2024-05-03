@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.2/staging' branch; Version is '2022.2.20f1 (c5d806317f84) revision 12965894'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22635) 64bit Core' Language: 'en' Physical Memory: 32636 MB
+OS: 'Windows 10  (10.0.19045) 64bit Enterprise' Language: 'en' Physical Memory: 65292 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2022.2.20f1\Editor\Unity.exe
+C:\ProgramData\Unity_2022.2.20f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker4
 -projectPath
-C:/Users/user/Desktop/GDP/TAMS
+C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
 -logFile
 Logs/AssetImportWorker4.log
 -srvPort
-56954
-Successfully changed project path to: C:/Users/user/Desktop/GDP/TAMS
-C:/Users/user/Desktop/GDP/TAMS
+63199
+Successfully changed project path to: C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
+C:/Users/c2021538.SHU/Desktop/VR Design/TAMS
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,64 +47,64 @@ C:/Users/user/Desktop/GDP/TAMS
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [25988] Host "[IP] 10.90.2.195 [Port] 0 [Flags] 2 [Guid] 344587507 [EditorId] 344587507 [Version] 1048832 [Id] WindowsEditor(7,RHuntPC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [4796] Host "[IP] 10.72.85.163 [Port] 0 [Flags] 2 [Guid] 1330139236 [EditorId] 1330139236 [Version] 1048832 [Id] WindowsEditor(7,9224-19P548556) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [25988] Host "[IP] 10.90.2.195 [Port] 0 [Flags] 2 [Guid] 344587507 [EditorId] 344587507 [Version] 1048832 [Id] WindowsEditor(7,RHuntPC) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [4796] Host "[IP] 10.72.85.163 [Port] 0 [Flags] 2 [Guid] 1330139236 [EditorId] 1330139236 [Version] 1048832 [Id] WindowsEditor(7,9224-19P548556) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 13.83 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 19.17 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.2.20f1 (c5d806317f84)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/GDP/TAMS/Assets
+[Subsystems] Discovering subsystems at path C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/c2021538.SHU/Desktop/VR Design/TAMS/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
     Vendor:   NVIDIA
-    VRAM:     12115 MB
-    Driver:   31.0.15.5152
+    VRAM:     10067 MB
+    Driver:   31.0.15.3640
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56768
+Mono path[0] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/ProgramData/Unity_2022.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010769 seconds.
-- Loaded All Assemblies, in  0.562 seconds
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/ProgramData/Unity_2022.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.029817 seconds.
+- Loaded All Assemblies, in  0.506 seconds
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 424 ms
+Android Extension - Scanning For ADB Devices 388 ms
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.859 seconds
+- Finished resetting the current domain, in  0.755 seconds
 Domain Reload Profiling:
-	ReloadAssembly (299ms)
-		BeginReloadAssembly (152ms)
+	ReloadAssembly (347ms)
+		BeginReloadAssembly (204ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
 		LoadAllAssembliesAndSetupDomain (0ms)
-			LoadAssemblies (150ms)
+			LoadAssemblies (206ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (251ms)
-				TypeCache.Initialize (249ms)
-					TypeCache.ScanAssembly (247ms)
-				ResolveRequiredComponents (1ms)
+			SetupTypeCache (147ms)
+				TypeCache.Initialize (146ms)
+					TypeCache.ScanAssembly (145ms)
+				ResolveRequiredComponents (0ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (780ms)
+			SetupLoadedEditorAssemblies (697ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (576ms)
-				SetLoadedEditorAssemblies (7ms)
+				InitializePlatformSupportModulesInManaged (537ms)
+				SetLoadedEditorAssemblies (4ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (133ms)
-				ProcessInitializeOnLoadMethodAttributes (62ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (100ms)
+				ProcessInitializeOnLoadMethodAttributes (54ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -112,10 +112,10 @@ Domain Reload Profiling:
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\GDP\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\GDP\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  0.843 seconds
-Refreshing native plugins compatible for Editor in 7.62 ms, found 7 plugins.
+Symbol file LoadedFromMemory doesn't match image C:\Users\c2021538.SHU\Desktop\VR Design\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\c2021538.SHU\Desktop\VR Design\TAMS\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.118 seconds
+Refreshing native plugins compatible for Editor in 10.81 ms, found 7 plugins.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Package Manager log level set to [2]
@@ -129,44 +129,44 @@ Mono: successfully reloaded assembly
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  0.684 seconds
+- Finished resetting the current domain, in  0.699 seconds
 Domain Reload Profiling:
-	ReloadAssembly (229ms)
-		BeginReloadAssembly (132ms)
+	ReloadAssembly (352ms)
+		BeginReloadAssembly (247ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		LoadAllAssembliesAndSetupDomain (609ms)
-			LoadAssemblies (301ms)
+			CreateAndSetChildDomain (17ms)
+		LoadAllAssembliesAndSetupDomain (760ms)
+			LoadAssemblies (587ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (369ms)
-				TypeCache.Initialize (339ms)
-					TypeCache.ScanAssembly (334ms)
+			SetupTypeCache (350ms)
+				TypeCache.Initialize (321ms)
+					TypeCache.ScanAssembly (317ms)
 				ResolveRequiredComponents (8ms)
 		FinalizeReload (0ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (0ms)
-			SetupLoadedEditorAssemblies (501ms)
+			SetupLoadedEditorAssemblies (506ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (26ms)
+				InitializePlatformSupportModulesInManaged (38ms)
 				SetLoadedEditorAssemblies (4ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (79ms)
-				ProcessInitializeOnLoadAttributes (363ms)
+				BeforeProcessingInitializeOnLoad (85ms)
+				ProcessInitializeOnLoadAttributes (348ms)
 				ProcessInitializeOnLoadMethodAttributes (19ms)
-				AfterProcessingInitializeOnLoad (9ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 10.64 ms, found 7 plugins.
+			AwakeInstancesAfterBackupRestoration (17ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 13.04 ms, found 7 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4497 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 50 unused Assets / (304.9 KB). Loaded Objects now: 4965.
-Memory consumption went from 147.8 MB to 147.5 MB.
-Total: 4.964000 ms (FindLiveObjects: 0.460700 ms CreateObjectMapping: 0.451300 ms MarkObjects: 3.907600 ms  DeleteObjects: 0.143100 ms)
+Unloading 50 unused Assets / (305.3 KB). Loaded Objects now: 4969.
+Memory consumption went from 149.4 MB to 149.1 MB.
+Total: 3.679100 ms (FindLiveObjects: 0.410400 ms CreateObjectMapping: 0.155400 ms MarkObjects: 2.989200 ms  DeleteObjects: 0.123100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -181,65 +181,689 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 471950.260670 seconds.
-  path: Assets/SteamVR/Models/vr_glove_left_model_slim.fbx
-  artifactKey: Guid(65d8eda911e0ba548a3674f65c43308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/SteamVR/Models/vr_glove_left_model_slim.fbx using Guid(65d8eda911e0ba548a3674f65c43308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24126f8e3da2565cd83bcdd8c13a4073') in 0.367804 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 75
-========================================================================
-Received Import Request.
-  Time since last request: 15.402709 seconds.
-  path: Assets/Meshes/Decorative plants
-  artifactKey: Guid(a32a094a2dade194aa3ae14e68c7c69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants using Guid(a32a094a2dade194aa3ae14e68c7c69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c9381a19360ebfa4e8dd2cdd02f7e4a') in 0.000467 seconds
+  Time since last request: 7296.262085 seconds.
+  path: Assets/Modles/Neon Plants
+  artifactKey: Guid(5dfa3cfb39aceb84da7644b8f926d3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants using Guid(5dfa3cfb39aceb84da7644b8f926d3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdcc903017ddc1000dfb1bcc6cf972a1') in 0.001659 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.039522 seconds.
-  path: Assets/Meshes/Decorative plants/All plants.prefab
-  artifactKey: Guid(10921d6049a7eb64bb47242accd6fb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/All plants.prefab using Guid(10921d6049a7eb64bb47242accd6fb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b95b0179cedb18e585cdb7af8f33aa') in 0.287740 seconds
+  Time since last request: 6.719111 seconds.
+  path: Assets/Modles/Neon Plants/Crate 1.png
+  artifactKey: Guid(aa25fafe0db071e40bc1d52c6a5e82ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Crate 1.png using Guid(aa25fafe0db071e40bc1d52c6a5e82ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9593201182fcb78b03848cd40eb2e0f') in 0.103075 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 424
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Meshes/Decorative plants/Cylinder pot pine plant prefab.prefab
-  artifactKey: Guid(a8c9045798e9abb48a3a17bd027abcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Cylinder pot pine plant prefab.prefab using Guid(a8c9045798e9abb48a3a17bd027abcd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe93427fa6b76f2e818b66175b220b6a') in 0.026911 seconds
+  Time since last request: 0.265192 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 B.png
+  artifactKey: Guid(62204a263b1a8ba49a3d75c0815d24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 B.png using Guid(62204a263b1a8ba49a3d75c0815d24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aa87cab82b361fe531aa42e49c2266c') in 0.027345 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Meshes/Decorative plants/Triangle pot pine plant prefab.prefab
-  artifactKey: Guid(06ab54588ffd13946b5a335e726b7f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Triangle pot pine plant prefab.prefab using Guid(06ab54588ffd13946b5a335e726b7f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e17c3bd1b82a0746503c6df88cfc1b') in 0.040700 seconds
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 B.png
+  artifactKey: Guid(7b32cd1356c5ccb468916a6c1a63ee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 B.png using Guid(7b32cd1356c5ccb468916a6c1a63ee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449e9a32d2d5744582c6e9ea196c540d') in 0.015186 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Meshes/Decorative plants/Square pot pine plant prefab.prefab
-  artifactKey: Guid(1520c044ce2d91149a85b0e433b3ed2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Square pot pine plant prefab.prefab using Guid(1520c044ce2d91149a85b0e433b3ed2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd53afe3838cfe9e3b5dbd13bebc7887') in 0.030253 seconds
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 G.png
+  artifactKey: Guid(ebf60344cc094404f9a074b743e6721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 G.png using Guid(ebf60344cc094404f9a074b743e6721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f863d97239360afe44240cca87b67817') in 0.018917 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Meshes/Decorative plants/Square pot bamboo plant prefab.prefab
-  artifactKey: Guid(e859b62020d71e14881eda00dc41a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Meshes/Decorative plants/Square pot bamboo plant prefab.prefab using Guid(e859b62020d71e14881eda00dc41a1eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6865b9e58f3e264e1f3c1c3467e15a7e') in 0.041194 seconds
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 B.png
+  artifactKey: Guid(dca9b70627287d64e829045b58fda947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 B.png using Guid(dca9b70627287d64e829045b58fda947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2277c87a1714fd29781ba5f7a10b7fac') in 0.019168 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 30
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 13.104745 seconds.
-  path: Assets/Scenes/PrefabTesting.unity
-  artifactKey: Guid(9725ad8a0ea493449b831132eb6848f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/PrefabTesting.unity using Guid(9725ad8a0ea493449b831132eb6848f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e08b9302d52b735d6dae33efa48e85') in 0.000449 seconds
+  Time since last request: 0.000025 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 R.png
+  artifactKey: Guid(b4edd0aeebd69b44c9608403a6888f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 R.png using Guid(b4edd0aeebd69b44c9608403a6888f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8144be7dde48547f5abb67a7d98a1897') in 0.017375 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 G.png
+  artifactKey: Guid(6fd804bd778065840af3828544d96dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 G.png using Guid(6fd804bd778065840af3828544d96dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b66755a35345ff2533d3e53363adf3') in 0.018271 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 DB.png
+  artifactKey: Guid(3a8f55046f4bdc547a75f93b700fa5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 DB.png using Guid(3a8f55046f4bdc547a75f93b700fa5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875e2c6aff9324ced4570d3843809d64') in 0.017282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 DB.png
+  artifactKey: Guid(a3a5546e0ab389747802f650e9a26bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 DB.png using Guid(a3a5546e0ab389747802f650e9a26bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bbaeb30cff502efeab3956ada53c34e') in 0.015990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 DB.png
+  artifactKey: Guid(fdf04d34a1b6c9e4aa0f3f09f56904d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 DB.png using Guid(fdf04d34a1b6c9e4aa0f3f09f56904d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10ffc3ee3219b3cfb9d37bba68aca3b') in 0.009080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 P.png
+  artifactKey: Guid(c07d1ca4b26f538418cd1f96a4495a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 P.png using Guid(c07d1ca4b26f538418cd1f96a4495a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae7249e1d2e378dc1683f1f8e749965') in 0.017504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 P.png
+  artifactKey: Guid(ad4e7252c9fa4fa43850266c00a7b091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 P.png using Guid(ad4e7252c9fa4fa43850266c00a7b091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3c1fc3ff8ec4c8a6ede57497c4ac67') in 0.018874 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 36.556539 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774a2c70ce80eea5eb5425ee124590a8') in 0.007635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 7.308314 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da78303118a727fec482d0d9f2cb0b8') in 0.049532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 5.071846 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a9961e0efd6000b78f9f46f88607de') in 0.006635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.019410 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ada11ab65789cfa6ce41a1469e812d6') in 0.014139 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 2.201409 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ff427fe796b566a9b40e7713b4b88b') in 0.015272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.500655 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a43b97c24ba1eeea479447dc41db757') in 0.016543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 4.184635 seconds.
+  path: Assets/Modles/Neon Plants/Grass.prefab
+  artifactKey: Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.prefab using Guid(89eb0a2b8ee44ea40b11cdfcdd197822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4991cd388d0113aa1a3b3022c9b7cb2e') in 0.015777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 12.561380 seconds.
+  path: Assets/Modles/Neon Plants/Grass.mat
+  artifactKey: Guid(a924769dd7384134489dd7949f924fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass.mat using Guid(a924769dd7384134489dd7949f924fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83cf55d6c703ac77df2c015d3052b7b3') in 0.040729 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 36.086380 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 B.png
+  artifactKey: Guid(62204a263b1a8ba49a3d75c0815d24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 B.png using Guid(62204a263b1a8ba49a3d75c0815d24a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b8887879427fa90c056d0cba1c179e') in 0.026739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.680405 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 B.png
+  artifactKey: Guid(344bd19e772c27a49a678a6877a74616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 B.png using Guid(344bd19e772c27a49a678a6877a74616) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de9007e16f4fb45f95e8d0555fc6957') in 0.018020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 47.498261 seconds.
+  path: Assets/Modles/Neon Plants/Crate 1.png
+  artifactKey: Guid(aa25fafe0db071e40bc1d52c6a5e82ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Crate 1.png using Guid(aa25fafe0db071e40bc1d52c6a5e82ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1911776748986b03f5b213651f64cc7b') in 0.021754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.184973 seconds.
+  path: Assets/Modles/Neon Plants/Crate Side.png
+  artifactKey: Guid(6a836e5b74ff0f14595a9648f6a1bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Crate Side.png using Guid(6a836e5b74ff0f14595a9648f6a1bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837efe9cc0206e767cfdf9bf66661f27') in 0.019940 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.467642 seconds.
+  path: Assets/Modles/Neon Plants/Crate Side (2).png
+  artifactKey: Guid(1c62516396b9ae240b3bb79f56a60962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Crate Side (2).png using Guid(1c62516396b9ae240b3bb79f56a60962) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bb260bab607398978e0d3b3f3459104') in 0.019038 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.505708 seconds.
+  path: Assets/Modles/Neon Plants/Door.png
+  artifactKey: Guid(346765abe6b07ef4eb9d101042953ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Door.png using Guid(346765abe6b07ef4eb9d101042953ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616a325a1bb8ced71fffa04a92247edf') in 0.019063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.707405 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 B.png
+  artifactKey: Guid(d9066889227e3fa4c9c988ad91501c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 B.png using Guid(d9066889227e3fa4c9c988ad91501c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29b30774778925a3454a1ce26cad233') in 0.016655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.361166 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 DB.png
+  artifactKey: Guid(09762146343e7f8488f2fe408fd058b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 DB.png using Guid(09762146343e7f8488f2fe408fd058b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8867c998abe0bb52eb44f260aca9e9') in 0.016210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.806343 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 G.png
+  artifactKey: Guid(a8e2385781046d14a9a0a7d6bfee9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 G.png using Guid(a8e2385781046d14a9a0a7d6bfee9a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54026798fcbcb3586388438de2f9d679') in 0.016074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.864705 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 LB.png
+  artifactKey: Guid(5fc415fb51501ff46965220dd0a7a807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 LB.png using Guid(5fc415fb51501ff46965220dd0a7a807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9776b22138c1e3c1580eca98b2b5f105') in 0.016847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.824346 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 P.png
+  artifactKey: Guid(aaba3f3fbf1595f4bbfa24525e5c19ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 P.png using Guid(aaba3f3fbf1595f4bbfa24525e5c19ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2100e828c974b5059ed86577bbe886f') in 0.015701 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.804814 seconds.
+  path: Assets/Modles/Neon Plants/Flower 1 R.png
+  artifactKey: Guid(6cff7d47f902ead478f794f901e88c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 1 R.png using Guid(6cff7d47f902ead478f794f901e88c00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588f72a90a9aa103f62e5cb5a6780f76') in 0.016722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.506624 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 DB.png
+  artifactKey: Guid(d351f9c94f3b9a74a9d478f5a4859bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 DB.png using Guid(d351f9c94f3b9a74a9d478f5a4859bc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c82bc96378e5557625e04146cbc7343') in 0.017030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.064660 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 G.png
+  artifactKey: Guid(1c694fd851632fa4189bb5e8bef62669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 G.png using Guid(1c694fd851632fa4189bb5e8bef62669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35363c31cedce9af1a36b1d471d9b1d') in 0.017240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 12.046945 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 LB.png
+  artifactKey: Guid(cb819b2fc6fa6f449886c49f4e3d705d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 LB.png using Guid(cb819b2fc6fa6f449886c49f4e3d705d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc550be083e42e04ce87709a6b591bfc') in 0.016870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.377735 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 P.png
+  artifactKey: Guid(ec5873bdaff710d43b7952a54ca78ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 P.png using Guid(ec5873bdaff710d43b7952a54ca78ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2463a25db6c2e0a2b96430b3747c120d') in 0.017040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.737865 seconds.
+  path: Assets/Modles/Neon Plants/Flower 2 R.png
+  artifactKey: Guid(e55ff42622196404189eb5dd36fbc8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 2 R.png using Guid(e55ff42622196404189eb5dd36fbc8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0a663638ede305629cae434026ea50') in 0.016754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.688800 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 B.png
+  artifactKey: Guid(0b155934afb484f4b9b82315fcf1599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 B.png using Guid(0b155934afb484f4b9b82315fcf1599c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35bbd0a087e40b1f17b5875df232e01') in 0.017991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 135.350175 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 DB.png
+  artifactKey: Guid(a3a5546e0ab389747802f650e9a26bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 DB.png using Guid(a3a5546e0ab389747802f650e9a26bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76de6446592a9e7d720584039a500673') in 0.016449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.955517 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 G.png
+  artifactKey: Guid(7408a8dc84139194680bd2b794be94b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 G.png using Guid(7408a8dc84139194680bd2b794be94b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81cdee3a61f31e2b032863a7af3e61fb') in 0.016957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.469615 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 LB.png
+  artifactKey: Guid(5d13af22dd19a82438d514fb141e8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 LB.png using Guid(5d13af22dd19a82438d514fb141e8a61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27be1c8ca393f60392b18092c2f01a6') in 0.016943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.777378 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 P.png
+  artifactKey: Guid(09ed69d91bd0b1e46be742c970154a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 P.png using Guid(09ed69d91bd0b1e46be742c970154a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e949be8d27eb5a74feb54a9a80ab1832') in 0.017011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.583296 seconds.
+  path: Assets/Modles/Neon Plants/Flower 3 R.png
+  artifactKey: Guid(d511f9e8c043f26408a30baca9c584fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Flower 3 R.png using Guid(d511f9e8c043f26408a30baca9c584fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2011952fdf7a652b91e506bb2cee32') in 0.018711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.339437 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 DB.png
+  artifactKey: Guid(fdf04d34a1b6c9e4aa0f3f09f56904d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 DB.png using Guid(fdf04d34a1b6c9e4aa0f3f09f56904d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7cad1c53f2de821795f961b2cb00d45') in 0.016871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.842895 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 G.png
+  artifactKey: Guid(6fd804bd778065840af3828544d96dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 G.png using Guid(6fd804bd778065840af3828544d96dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151ab734f2652e92a33067903fa0c206') in 0.016742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.113247 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 LB.png
+  artifactKey: Guid(d34628bfc71c3f04ea2992e72815519f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 LB.png using Guid(d34628bfc71c3f04ea2992e72815519f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26bdc79515929b5cdaa3f05dd49853f') in 0.016210 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.267080 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 P.png
+  artifactKey: Guid(5c9b66b6e90787541af4b9b32c613e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 P.png using Guid(5c9b66b6e90787541af4b9b32c613e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e144036627a1cc7d84dc4f14f1149359') in 0.016419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.447850 seconds.
+  path: Assets/Modles/Neon Plants/Grass 1 R.png
+  artifactKey: Guid(50b107f4b9989a346a5b48fa1fa809fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 1 R.png using Guid(50b107f4b9989a346a5b48fa1fa809fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb3c1a8c07dcff3d4e021483c151e39') in 0.016054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.050408 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 B.png
+  artifactKey: Guid(5840b990fe56bfd4aa4b7223d8bfbb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 B.png using Guid(5840b990fe56bfd4aa4b7223d8bfbb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6730135fedfc424238ef4c960b4bd1d1') in 0.016387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.671405 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 DB.png
+  artifactKey: Guid(cddaebc9c4ea15c429db71ef4efa56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 DB.png using Guid(cddaebc9c4ea15c429db71ef4efa56c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03e777eca3480a940c14a1c6c4e3038f') in 0.016259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.883516 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 G.png
+  artifactKey: Guid(1e410f31d2fefd94692ac7a0e8fedcfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 G.png using Guid(1e410f31d2fefd94692ac7a0e8fedcfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a3581d40aaf910111b426fe7619d24') in 0.016252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.506080 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 LB.png
+  artifactKey: Guid(98e5b3f8ac4599747b61c4076e8162b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 LB.png using Guid(98e5b3f8ac4599747b61c4076e8162b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0313f876589d2fa0b176b66bd00cbff') in 0.015926 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.350374 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 P.png
+  artifactKey: Guid(ad4e7252c9fa4fa43850266c00a7b091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 P.png using Guid(ad4e7252c9fa4fa43850266c00a7b091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd087a4ab96739e00abc66e1175f7593') in 0.016022 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.599610 seconds.
+  path: Assets/Modles/Neon Plants/Grass 2 R.png
+  artifactKey: Guid(61a45c3e32a98104395ab9b888a6511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 2 R.png using Guid(61a45c3e32a98104395ab9b888a6511c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29734fe91c14fdbb61e192c97db9601') in 0.016692 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.805945 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 B.png
+  artifactKey: Guid(3c6d63a86e73b5e49bdbb198b1befab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 B.png using Guid(3c6d63a86e73b5e49bdbb198b1befab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54ca0db91aa1a1f407c60fa8b8dbf8d') in 0.015743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.821225 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 DB.png
+  artifactKey: Guid(3a8f55046f4bdc547a75f93b700fa5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 DB.png using Guid(3a8f55046f4bdc547a75f93b700fa5ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb4d0989a8b0a491021c878fed94a1b') in 0.016772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.299399 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 G.png
+  artifactKey: Guid(0bc6104b81358184bbe34d0aa49f0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 G.png using Guid(0bc6104b81358184bbe34d0aa49f0179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2d44159742061a13f6599e4c071abd') in 0.016433 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.583089 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 LB.png
+  artifactKey: Guid(a47dd08bd586fe74da2c9c9139f33e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 LB.png using Guid(a47dd08bd586fe74da2c9c9139f33e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60739b14a150851db5cb0da083106a0') in 0.016567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.529798 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 P.png
+  artifactKey: Guid(49232d18cceb2bd41bba067867047b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 P.png using Guid(49232d18cceb2bd41bba067867047b88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31557ed1144f1b089feec223a0bc177b') in 0.016890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.086340 seconds.
+  path: Assets/Modles/Neon Plants/Grass 3 R.png
+  artifactKey: Guid(b4edd0aeebd69b44c9608403a6888f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Grass 3 R.png using Guid(b4edd0aeebd69b44c9608403a6888f2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f350d6d227f117dbf9c3843b9fb27a') in 0.016518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.879617 seconds.
+  path: Assets/Modles/Neon Plants/Layer 37.png
+  artifactKey: Guid(c6cbbadcaf31a334ebf43583a0e717e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Layer 37.png using Guid(c6cbbadcaf31a334ebf43583a0e717e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '831ab159e05525cff2ba810a7e24ac89') in 0.017036 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.600437 seconds.
+  path: Assets/Modles/Neon Plants/Layer 40.png
+  artifactKey: Guid(3fcab0ff5585b0a40a32da7d231c25ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Layer 40.png using Guid(3fcab0ff5585b0a40a32da7d231c25ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e22d5ffb54688056ac17ccd604fc47') in 0.017699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.305156 seconds.
+  path: Assets/Modles/Neon Plants/RoofTop.png
+  artifactKey: Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/RoofTop.png using Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d6e3d5d5fdfb0139d2693dff8bbf48') in 0.020715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.884623 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 DB.png
+  artifactKey: Guid(ebb61690e06953642b298c02b3d32cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 DB.png using Guid(ebb61690e06953642b298c02b3d32cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91a4799468fe3f2c194bbb961e43ebc') in 0.017487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.727344 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 G.png
+  artifactKey: Guid(64894757fec074644b26774ca9c3b7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 G.png using Guid(64894757fec074644b26774ca9c3b7db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5c8af3c8a33e13279a1e9dc5a5f9a1b') in 0.017500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.275236 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 LB.png
+  artifactKey: Guid(67f6202fa3cb2dc41a5bc2cb6ea7881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 LB.png using Guid(67f6202fa3cb2dc41a5bc2cb6ea7881b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462f150fb36b23e95fe496a2fedefda7') in 0.017214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.588982 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 P.png
+  artifactKey: Guid(a28b95faf9fbbec428ea489dc1b333ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 P.png using Guid(a28b95faf9fbbec428ea489dc1b333ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d8369641b687191656cf91b5c4bcb4') in 0.016978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.627036 seconds.
+  path: Assets/Modles/Neon Plants/Tree 1 R.png
+  artifactKey: Guid(842273d5013dff14696f789434785f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 1 R.png using Guid(842273d5013dff14696f789434785f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92bcb17d71f5ddd6bd978706ce399b86') in 0.017390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.857614 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 B.png
+  artifactKey: Guid(dca9b70627287d64e829045b58fda947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 B.png using Guid(dca9b70627287d64e829045b58fda947) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4ab497f6c6495c72f9067f0dc30434') in 0.017531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.326719 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 G.png
+  artifactKey: Guid(bb0f76c7436de274b8ec673d5b3558ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 G.png using Guid(bb0f76c7436de274b8ec673d5b3558ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff618c1eaa9a16a3f8ac8d935bcb33c') in 0.016953 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.886524 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 LB.png
+  artifactKey: Guid(dc193abbb528c424e8cb3d3353cd0765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 LB.png using Guid(dc193abbb528c424e8cb3d3353cd0765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022ee1d4e7180e5b8aa1ab94eac419cb') in 0.017201 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.101055 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 P.png
+  artifactKey: Guid(c07d1ca4b26f538418cd1f96a4495a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 P.png using Guid(c07d1ca4b26f538418cd1f96a4495a0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e26810ed58729d99078dbfd10f70f35a') in 0.016773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.114871 seconds.
+  path: Assets/Modles/Neon Plants/Tree 2 R.png
+  artifactKey: Guid(16b0be41f45b55743bc1bb62d462d3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 2 R.png using Guid(16b0be41f45b55743bc1bb62d462d3cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99beaac57bbecaad9947f8ed174509a') in 0.016627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.513769 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 B.png
+  artifactKey: Guid(7b32cd1356c5ccb468916a6c1a63ee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 B.png using Guid(7b32cd1356c5ccb468916a6c1a63ee91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b630cf6034eddb9ea2a495bbd584039e') in 0.016875 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.672046 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 DB.png
+  artifactKey: Guid(710cd7c926e3a7f468d8faf7a4da5422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 DB.png using Guid(710cd7c926e3a7f468d8faf7a4da5422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195217890ea0271851cb6ac99cf546e2') in 0.016542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 11.809236 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 G.png
+  artifactKey: Guid(ebf60344cc094404f9a074b743e6721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 G.png using Guid(ebf60344cc094404f9a074b743e6721f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e8e4497755d655ed98312a04a45ad9') in 0.016033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.674641 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 LB.png
+  artifactKey: Guid(c482e6146ce07a64a93990e90b335dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 LB.png using Guid(c482e6146ce07a64a93990e90b335dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96c4e262ea3e39f8f981fc3d518c538') in 0.019717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.826819 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 P.png
+  artifactKey: Guid(b26fdcc753ab01749b21529c5f495d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 P.png using Guid(b26fdcc753ab01749b21529c5f495d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1b65e4e6d38b80e7474e905a4e64b1') in 0.016904 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.278254 seconds.
+  path: Assets/Modles/Neon Plants/Tree 3 R.png
+  artifactKey: Guid(c964599c3eed5c9479b4dec17973e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Tree 3 R.png using Guid(c964599c3eed5c9479b4dec17973e553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466ab57f95f07f5f1ff89182c5406cfd') in 0.017045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.928080 seconds.
+  path: Assets/Modles/Neon Plants/Wall 1.png
+  artifactKey: Guid(b2c25b56b80080f429f41d43098adf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Wall 1.png using Guid(b2c25b56b80080f429f41d43098adf10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e532522deb44ed10603ab6aee1b5e79d') in 0.021009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 262.047214 seconds.
+  path: Assets/Modles/Neon Plants/RoofTop.png
+  artifactKey: Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/RoofTop.png using Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e610626118a019f88353672d5f1689c') in 0.021314 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.636702 seconds.
+  path: Assets/Modles/Neon Plants/RoofTop.png
+  artifactKey: Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/RoofTop.png using Guid(16a447e79ad9ad34eb133b6474ebaf5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca55e95958931c2b0e01e919abe67b83') in 0.020976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.376542 seconds.
+  path: Assets/Modles/Neon Plants/SideWall Extension.png
+  artifactKey: Guid(f6899192b33571f4e8f7335dc098c1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/SideWall Extension.png using Guid(f6899192b33571f4e8f7335dc098c1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fdbf078c704dc634de03582d5aa65a') in 0.020760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.422504 seconds.
+  path: Assets/Modles/Neon Plants/Chimney.png
+  artifactKey: Guid(3fcab0ff5585b0a40a32da7d231c25ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Chimney.png using Guid(3fcab0ff5585b0a40a32da7d231c25ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8c138e5b092bd2cabe8fa84458e1cb') in 0.015447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.128378 seconds.
+  path: Assets/Modles/Neon Plants/Key.png
+  artifactKey: Guid(c6cbbadcaf31a334ebf43583a0e717e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modles/Neon Plants/Key.png using Guid(c6cbbadcaf31a334ebf43583a0e717e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4799fa18c80a97ca4264eced6733f51a') in 0.009955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
