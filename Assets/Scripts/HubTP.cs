@@ -37,5 +37,10 @@ public class HubTP : MonoBehaviour
         {
             SceneManager.LoadScene(3);
         }
+
+        if (other.gameObject == TrypoTP)
+        {
+            SceneManager.LoadScene(4);
+        }
     }
 }
