@@ -683,7 +683,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318c06f3885dcf049b7d45d04806c474, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pattern: {fileID: 0}
+  pattern: {fileID: 7070170325452324125, guid: 7f2d372ec795f1549a7a7eb7f7022182, type: 3}
   counter: 0
 --- !u!1001 &2121064253
 PrefabInstance:
