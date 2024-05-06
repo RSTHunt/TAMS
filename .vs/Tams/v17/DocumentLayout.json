@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\TAMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|d:\\github\\tams\\assets\\scripts\\hubtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hubtp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|d:\\github\\tams\\assets\\scripts\\patternshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patternshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|D:\\GitHub\\TAMS\\assets\\scripts\\patterngeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patterngeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|D:\\GitHub\\TAMS\\assets\\scripts\\patternshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\patternshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5043BCC4-0754-A8A2-A369-7D0C4395B82F}|Assembly-CSharp.csproj|D:\\GitHub\\TAMS\\assets\\scripts\\trypophobiawin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HubTP.cs",
-              "DocumentMoniker": "D:\\GitHub\\TAMS\\Assets\\Scripts\\HubTP.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HubTP.cs",
-              "ToolTip": "D:\\GitHub\\TAMS\\Assets\\Scripts\\HubTP.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HubTP.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T09:46:18.076Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -49,14 +32,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PatternShape.cs",
               "ToolTip": "D:\\GitHub\\TAMS\\Assets\\Scripts\\PatternShape.cs",
               "RelativeToolTip": "Assets\\Scripts\\PatternShape.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T15:23:26.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TrypophobiaWin.cs",
               "DocumentMoniker": "D:\\GitHub\\TAMS\\Assets\\Scripts\\TrypophobiaWin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TrypophobiaWin.cs",
@@ -68,15 +51,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PatternGeneration.cs",
               "DocumentMoniker": "D:\\GitHub\\TAMS\\Assets\\Scripts\\PatternGeneration.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PatternGeneration.cs",
               "ToolTip": "D:\\GitHub\\TAMS\\Assets\\Scripts\\PatternGeneration.cs",
               "RelativeToolTip": "Assets\\Scripts\\PatternGeneration.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAAAFAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwEYAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T15:07:42.347Z"
+              "WhenOpened": "2024-05-01T15:07:42.347Z",
+              "EditorCaption": ""
             }
           ]
         }

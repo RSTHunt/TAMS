@@ -14,7 +14,10 @@ public class PatternGeneration : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("SpawnPattern", 0.5f, 0.5f);
+        InvokeRepeating("SpawnPattern1", 0.5f, 0.5f);
+        InvokeRepeating("SpawnPattern2", 0.5f, 0.5f);
+        InvokeRepeating("SpawnPattern3", 0.5f, 0.5f);
+        InvokeRepeating("SpawnPattern4", 0.5f, 0.5f);
     }
 
     // Update is called once per frame
@@ -31,11 +34,41 @@ public class PatternGeneration : MonoBehaviour
         }
     }
 
-    void SpawnPattern()
+    void SpawnPattern1()
     {
         if (generate == true)
         {
-            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-7.65f, 7.7f), Random.Range(-0.62f, 0.63f), Random.Range(-7.65f, 7.7f));
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-6.73f, 5.42f), Random.Range(1, 3), Random.Range(6.08f, 6.866f));
+            Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
+            spawned++;
+        }
+    }
+
+    void SpawnPattern2()
+    {
+        if (generate == true)
+        {
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-4.5f, 4.5f), Random.Range(1, 3), Random.Range(-4.874f, -4.666f));
+            Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
+            spawned++;
+        }
+    }
+
+    void SpawnPattern3()
+    {
+        if (generate == true)
+        {
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(10.91f, 11.17f), Random.Range(1, 3), Random.Range(-7.76f, 2.23f));
+            Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
+            spawned++;
+        }
+    }
+
+    void SpawnPattern4()
+    {
+        if (generate == true)
+        {
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-4.1f, -4.29f), Random.Range(1, 3), Random.Range(-6.84f, 2.74f));
             Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
             spawned++;
         }
