@@ -559,7 +559,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9606bcbdaa4df2c46a57fb3d86cc731c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -770,6 +770,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Wall
       objectReference: {fileID: 0}
+    - target: {fileID: 4253280567622488715, guid: 95c664cbfb49c1649b79bdd06c4cc858, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d92f89d515038344fbeacb7c8c9ffbcf, type: 2}
     - target: {fileID: 5639405848544218604, guid: 95c664cbfb49c1649b79bdd06c4cc858, type: 3}
       propertyPath: m_LocalPosition.z
       value: -2.061
