@@ -14,6 +14,7 @@ public class PlaySound : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("Something Entered");
         if (SoundToPlay != null)
         {
             SoundToPlay.Play();
