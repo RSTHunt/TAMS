@@ -15,9 +15,9 @@ public class PatternGeneration : MonoBehaviour
     void Start()
     {
         InvokeRepeating("SpawnPattern1", 0.5f, 0.5f);
-        InvokeRepeating("SpawnPattern2", 0.5f, 0.5f);
-        InvokeRepeating("SpawnPattern3", 0.5f, 0.5f);
-        InvokeRepeating("SpawnPattern4", 0.5f, 0.5f);
+        InvokeRepeating("SpawnPattern2", 0.66f, 0.5f);
+        InvokeRepeating("SpawnPattern3", 0.87f, 0.5f);
+        InvokeRepeating("SpawnPattern4", 0.25f, 0.5f);
     }
 
     // Update is called once per frame
