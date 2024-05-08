@@ -21,5 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Trypophobia.unity
     guid: ba0740a33a745c941bbf3236ec096a4e
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 990b922e984220b4d921757a55ccf8fc, type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: a3421d6475deddc4b9d3bc320caa4ea9, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3125118afca06941a625f8cc180b07d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9734cb14a4aa7664f82d10580cf44e23, type: 2}

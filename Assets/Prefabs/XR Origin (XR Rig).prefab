@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 6552623969519395707}
   - component: {fileID: 4661832078685383394}
   - component: {fileID: 7455345870313071618}
+  - component: {fileID: 6201587377360768418}
   m_Layer: 0
   m_Name: XR Origin (XR Rig)
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26,14 +27,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4173962478630099697}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.17, y: 0.44, z: 0.028507706}
+  m_LocalPosition: {x: 1.17, y: 0.44266695, z: -30.49}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2801992716242157327}
   - {fileID: 5903610517812420084}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4661832078685383394
 MonoBehaviour:
@@ -50,7 +51,7 @@ MonoBehaviour:
   m_Camera: {fileID: 2198270402660592430}
   m_OriginBaseGameObject: {fileID: 4173962478630099697}
   m_CameraFloorOffsetObject: {fileID: 4686421911883074060}
-  m_RequestedTrackingOriginMode: 1
+  m_RequestedTrackingOriginMode: 2
   m_CameraYOffset: 1.1176
 --- !u!114 &7455345870313071618
 MonoBehaviour:
@@ -65,6 +66,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ActionAssets: []
+--- !u!114 &6201587377360768418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4173962478630099697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64724df9465500742ba0371bc5a2c25c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ClaustroTP: {fileID: 0}
+  AcroTP: {fileID: 0}
+  NyctoTP: {fileID: 0}
+  TrypoTP: {fileID: 0}
 --- !u!1 &4686421911883074060
 GameObject:
   m_ObjectHideFlags: 0
