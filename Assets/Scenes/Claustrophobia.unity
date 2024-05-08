@@ -685,7 +685,7 @@ MonoBehaviour:
   Wall3: {fileID: 501286633}
   Wall4: {fileID: 1641070820}
   Cube: {fileID: 552518249}
-  WallSpeed: 0.01
+  WallSpeed: 0.001
   TotalTime: 30
 --- !u!65 &552518251
 BoxCollider:
@@ -1359,7 +1359,7 @@ MonoBehaviour:
   Wall3: {fileID: 501286633}
   Wall4: {fileID: 1641070820}
   Cube: {fileID: 552518249}
-  WallSpeed1: 0.75
+  WallSpeed1: 0.5
 --- !u!1001 &1095672849
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1553,7 +1553,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3098463513939502333, guid: bee1ce8916422dd4da3728f6262498f3, type: 3}
       propertyPath: m_UseGravity
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3098463513939502333, guid: bee1ce8916422dd4da3728f6262498f3, type: 3}
       propertyPath: m_IsKinematic

@@ -14,10 +14,10 @@ public class PatternGeneration : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("SpawnPattern1", 0.5f, 0.5f);
-        InvokeRepeating("SpawnPattern2", 0.66f, 0.5f);
-        InvokeRepeating("SpawnPattern3", 0.87f, 0.5f);
-        InvokeRepeating("SpawnPattern4", 0.25f, 0.5f);
+        InvokeRepeating("SpawnPattern1", 0.5f, 0.75f);
+        InvokeRepeating("SpawnPattern2", 0.66f, 0.75f);
+        InvokeRepeating("SpawnPattern3", 0.87f, 0.75f);
+        InvokeRepeating("SpawnPattern4", 0.25f, 0.75f);
     }
 
     // Update is called once per frame
@@ -38,7 +38,7 @@ public class PatternGeneration : MonoBehaviour
     {
         if (generate == true)
         {
-            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-6.73f, 5.42f), Random.Range(1, 3), Random.Range(6.08f, 6.866f));
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-5.62f, 5.39f), Random.Range(1f, 3f), Random.Range(-12.162f, -9.81f));
             Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
             spawned++;
         }
@@ -48,7 +48,7 @@ public class PatternGeneration : MonoBehaviour
     {
         if (generate == true)
         {
-            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-4.5f, 4.5f), Random.Range(1, 3), Random.Range(-4.874f, -4.666f));
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-13.25f, -9.31f), Random.Range(0.81f, 2.82f), Random.Range(-6.398f, 5.29f));
             Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
             spawned++;
         }
@@ -58,7 +58,7 @@ public class PatternGeneration : MonoBehaviour
     {
         if (generate == true)
         {
-            Vector3 RandomSpawnPosition = new Vector3(Random.Range(10.91f, 11.17f), Random.Range(1, 3), Random.Range(-7.76f, 2.23f));
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(9.935f, 13.176f), Random.Range(0.81f, 2.82f), Random.Range(-6.33f, 4.59f));
             Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
             spawned++;
         }
@@ -68,7 +68,7 @@ public class PatternGeneration : MonoBehaviour
     {
         if (generate == true)
         {
-            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-4.1f, -4.29f), Random.Range(1, 3), Random.Range(-6.84f, 2.74f));
+            Vector3 RandomSpawnPosition = new Vector3(Random.Range(-4.12f, 6.04f), Random.Range(-1.26f, 1.88f), Random.Range(11.87f, 15.06f));
             Instantiate(pattern, RandomSpawnPosition, Quaternion.identity);
             spawned++;
         }

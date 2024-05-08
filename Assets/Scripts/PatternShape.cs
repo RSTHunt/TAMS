@@ -11,7 +11,7 @@ public class PatternShape : MonoBehaviour
 
     private void Start()
     {
-        Target = GameObject.Find("PatternShape").transform;
+        Target = GameObject.Find("CentrePoint").transform;
 
         Vector3 dir = Target.position - transform.position;
         dir.y = 0;

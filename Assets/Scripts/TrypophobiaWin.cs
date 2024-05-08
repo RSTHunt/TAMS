@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class TrypophobiaWin : MonoBehaviour
 {
     public GameObject Player;
-    private float Speed = 10;
+    //private float Speed = 10;
     public Rigidbody Cube;
     public bool Win;
 
